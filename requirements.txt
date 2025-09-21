@@ -1,0 +1,14 @@
+# Web framework dependencies
+Flask==3.0.0
+Werkzeug==3.0.1
+
+# Data processing dependencies (updated for Python 3.13 compatibility)
+pandas>=2.2.0
+openpyxl>=3.1.2
+
+# AI/ML dependencies
+openai>=1.6.1
+
+# Utility dependencies
+python-dotenv>=1.0.0
+requests>=2.31.0
